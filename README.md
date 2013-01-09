@@ -15,6 +15,7 @@ Known Bugs:
 -------------
 * No bugs reported yet :)
 
-Disclamer:
+Disclaimer:
 -------------
 * I did this on a very short period of time and when i tried to submit the app for spotify they didn't think it was useful. I hope you disagree :)
+* Fork and do whatever you want, but if you change the 'serverlocation' or anything like that the app will (probably) stop working.
