@@ -1,0 +1,17 @@
+{
+	"BundleType": "Application",
+	"BundleIdentifier": "webcontroller",
+	"AppIcon": {
+		"36x18": "webcontroller.png"
+	},
+	"AppName": {
+		"en": "Web Controller"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions" : [
+		"http://fco.bla.cl/",
+		"http://api.bitly.com"
+	]
+}
