@@ -1,3 +1,5 @@
+This doesn't work anymore, spotify dropped the app support for ages now.
+
 sp-webcontroller
 ================
 
